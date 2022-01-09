@@ -1,1 +1,13 @@
-https://docs.google.com/viewer?url=${https://docs.google.com/document/d/1CI6oapwhOZZqYZlAKrlfVUpT-SYYAsAYVjH9nKJLFmE/edit?usp=sharing}
+# A* Search algorithm
+
+## how to run 
+```
+git clone https://github.com/shalayiding/-A-search-algorithm
+```
+
+
+```
+python3 Findshortestpath.py terrain.png mpp.txt red.txt redout.png
+```
+## more informaiton about the project
+https://docs.google.com/document/d/1CI6oapwhOZZqYZlAKrlfVUpT-SYYAsAYVjH9nKJLFmE/edit?usp=sharing
