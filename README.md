@@ -1,4 +1,4 @@
-# A* Search algorithm
+# A* Search algorithm Summer Orienteering
 
 ## how to run 
 ```
